@@ -1,0 +1,5 @@
+id	type	DescriptionTitle	PriceLabel	ListingDate	ReListingDate	Address	Suburb	State	PostCode	Property.lat	Property.lon	PropertyType	Agency.Id	Agency.Type	Agency.Name	Agent.Name	Beds	Baths	Cars	EER	PlotSize	Features
+175483269	RENTAL_RESIDENTIAL	Modern Sunny Spacious Apartment.	$700 per week	2018-07-01 10:27:05		11/10 Ovens Street	Griffith	ACT	2603	-35.31832444	149.13914556	APARTMENT	417047	PrivateLister	Private Lister		2	2	1	3	3913	['CENTRAL_HEAT', 'DINING_ROOM', 'FAMILY_ROOM']
+175521361	RENTAL_RESIDENTIAL	Fully furnished Nishi apartment available for rent (electricity, internet, gas and water included)	$600-$650 per week	2018-07-21 02:41:18		510/25 Edinburgh Avenue	City	ACT	2601	-35.2849101	149.1225765	APARTMENT	19655	PrivateLister	Private Lister		1	1	2		57	
+175542347	RENTAL_RESIDENTIAL		By Negotiation	2018-07-22 10:54:24		(no street name provided)	Moncrieff	ACT	2914	-35.1588206	149.11630592	OTHER	58515	PrivateLister	Private Lister			0	0		585	
+175599806	RENTAL_RESIDENTIAL	*** Rented ***	$550-$580 per week	2018-07-30 12:31:55		15 Victor Chang Street	Macgregor	ACT	2615	-35.2117222	149.0010536	HOUSE	153455	PrivateLister	Private Lister		3	1	1	4	465	
