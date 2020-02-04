@@ -1,0 +1,4 @@
+id	type	DescriptionTitle	PriceLabel	ListingDate	ReListingDate	Address	Suburb	State	PostCode	Property.lat	Property.lon	PropertyType	Agency.Id	Agency.Type	Agency.Name	Agent.Name	Beds	Baths	Cars	EER	PlotSize	Features
+175749337	RENTAL_RESIDENTIAL	Inner city short or long term lease	$595 per week	2018-09-05 05:31:28		33 Currong Street South	Reid	ACT	2612	-35.2802633	149.1375695	APARTMENT	5747	Agent	Argyle Real Estate	Vic Lupton	2	1	1			['SELF_CONT_FLAT']
+175782656	RENTAL_RESIDENTIAL	3 Bed Family Home Franklin	$620 per week	2018-09-12 09:48:18		(no street name provided)	Franklin	ACT	2913	-35.1956428	149.148513	HOUSE	691525	PrivateLister	Private Lister		3	1	2		250	['CENTRAL_HEAT', 'DINING_ROOM']
+175834086	RENTAL_RESIDENTIAL	RENTED	By Negotiation	2018-09-25 10:04:41		14 MacFarland Crescent	Chifley	ACT	2606	-35.3548264	149.0750973	HOUSE	696634	PrivateLister	Private Lister		4	2	3		730	['CENTRAL_HEAT', 'DINING_ROOM', 'FAMILY_ROOM']
