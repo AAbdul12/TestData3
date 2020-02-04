@@ -1,0 +1,2 @@
+id	type	DescriptionTitle	PriceLabel	ListingDate	ReListingDate	Address	Suburb	State	PostCode	Property.lat	Property.lon	PropertyType	Agency.Id	Agency.Type	Agency.Name	Agent.Name	Beds	Baths	Cars	EER	PlotSize	Features
+174675334	RENTAL_RESIDENTIAL	Gorgeous North Facing Top Floor 1 Bedroom Apartment - Minutes from Gungahlin Market Place	$370 per week	2017-12-03 22:41:56		(no street name provided)	Franklin	ACT	2913	-35.19946016	149.1432938	UNIT	159086	PrivateLister	Private Lister		1	1	1		9026	
