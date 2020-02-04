@@ -1,0 +1,2 @@
+id	type	DescriptionTitle	PriceLabel	ListingDate	ReListingDate	Address	Suburb	State	PostCode	Property.lat	Property.lon	PropertyType	Agency.Id	Agency.Type	Agency.Name	Agent.Name	Beds	Baths	Cars	EER	PlotSize	Features
+174249055	RENTAL_RESIDENTIAL	Fully furnished Executive accommodation	$1,750 per week	2017-08-24 12:07:16		(no street name provided)	Dickson	ACT	2602	-35.25278295	149.14165439	TOWNHOUSE	130425	PrivateLister	Private Lister		3	2	2		1010	['DINING_ROOM', 'NEW_CONSTRUCTION', 'STUDY']
