@@ -1,0 +1,5 @@
+id	type	DescriptionTitle	PriceLabel	ListingDate	ReListingDate	Address	Suburb	State	PostCode	Property.lat	Property.lon	PropertyType	Agency.Id	Agency.Type	Agency.Name	Agent.Name	Beds	Baths	Cars	EER	PlotSize	Features
+173814883	RENTAL_RESIDENTIAL	HEART OF BELCONNEN	$360 per week	2017-05-12 09:30:19		(no street name provided)	Belconnen	ACT	2617	-35.2374908	149.0694467	APARTMENT	112955	PrivateLister	Private Lister		1	1	1	5	6354	['DINING_ROOM', 'SWIMMING_POOL']
+173824042	RENTAL_RESIDENTIAL		By Negotiation	2017-05-15 06:46:00		(no street name provided)	Lyneham	ACT	2602	-35.2485434	149.1327576	APARTMENT	30438	PrivateLister	Private Lister		1	1	1	6	11242	
+173889092	RENTAL_RESIDENTIAL	Large loft apartment with street access	$900 per week	2017-05-30 01:03:54		10/60 Callam Street	Phillip	ACT	2606	-35.34520566	149.08844192	APARTMENT	630827	PrivateLister	Private Lister		1	1	1	6	8023	
+173889122	RENTAL_RESIDENTIAL		By Negotiation	2017-05-30 01:08:02		(no street name provided)	Moncrieff	ACT	2914	-35.1606266	149.1163956	HOUSE	268925	PrivateLister	Private Lister			0	0		439	
