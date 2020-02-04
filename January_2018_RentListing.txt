@@ -1,0 +1,3 @@
+id	type	DescriptionTitle	PriceLabel	ListingDate	ReListingDate	Address	Suburb	State	PostCode	Property.lat	Property.lon	PropertyType	Agency.Id	Agency.Type	Agency.Name	Agent.Name	Beds	Baths	Cars	EER	PlotSize	Features
+174757415	RENTAL_RESIDENTIAL	48 Henty Street - short term lease also available - pricing structure below. FULLY ENCLOSED SMALL BACK YARD	$550 per week	2018-01-04 10:10:11		(no street name provided)	Braddon	ACT	2612	-35.270824	149.13572053	UNIT	62546	PrivateLister	Private Lister		1	1	1	5	1528	['PETS_ALLOWED']
+174851974	RENTAL_RESIDENTIAL		By Negotiation	2018-01-24 09:31:42		17 Careel Street	Harrison	ACT	2914	-35.1905721	149.1554286	HOUSE	472137	PrivateLister	Private Lister			0	0		487	
