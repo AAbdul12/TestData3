@@ -1,0 +1,3 @@
+id	type	DescriptionTitle	PriceLabel	ListingDate	ReListingDate	Address	Suburb	State	PostCode	Property.lat	Property.lon	PropertyType	Agency.Id	Agency.Type	Agency.Name	Agent.Name	Beds	Baths	Cars	EER	PlotSize	Features
+173277040	RENTAL_RESIDENTIAL	Studio/Granny Flat for Rent $320 to $400pw	$320 per week	2017-01-10 11:01:41		(no street name provided)	Narrabundah	ACT	2604	-35.33569803	149.14923812	UNIT	598576	PrivateLister	Private Lister		1	1	0	5	691	['SELF_CONT_FLAT']
+173337942	RENTAL_RESIDENTIAL	* Application Accepted *	$470-$550 per week	2017-01-23 14:58:48		12/3 Bowen Drive	Barton	ACT	2600	-35.3079329	149.1384242	APARTMENT	153455	PrivateLister	Private Lister		1	1	1	3.5	36666	
