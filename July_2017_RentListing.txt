@@ -1,0 +1,4 @@
+id	type	DescriptionTitle	PriceLabel	ListingDate	ReListingDate	Address	Suburb	State	PostCode	Property.lat	Property.lon	PropertyType	Agency.Id	Agency.Type	Agency.Name	Agent.Name	Beds	Baths	Cars	EER	PlotSize	Features
+174073815	RENTAL_RESIDENTIAL	TOP FLOOR APPARTMENT- 10TH LEVEL - FULLY FURNISHED ONE BEDROOM APARTMENT $600	$600 per week	2017-07-13 03:31:28		(no street name provided)	Braddon	ACT	2612	-35.2678968	149.1354101	APARTMENT	637701	PrivateLister	Private Lister		1	0	1		3104	
+174124064	RENTAL_RESIDENTIAL		$650 per week	2017-07-25 03:09:50		(no street name provided)	Giralang	ACT	2617	-35.21087801	149.09592711	HOUSE	54945	PrivateLister	Private Lister		3	1	0	1.5	920	
+174145555	RENTAL_RESIDENTIAL	Fantastic location, Fantastic place to live.	$1,000 per week	2017-07-30 08:13:08		3/42 Henty Street	Braddon	ACT	2612	-35.26932746	149.13631454	UNIT	24145	PrivateLister	Private Lister		1	2	0		1059	['SWIMMING_POOL']
