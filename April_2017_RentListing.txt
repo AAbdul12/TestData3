@@ -1,0 +1,3 @@
+id	type	DescriptionTitle	PriceLabel	ListingDate	ReListingDate	Address	Suburb	State	PostCode	Property.lat	Property.lon	PropertyType	Agency.Id	Agency.Type	Agency.Name	Agent.Name	Beds	Baths	Cars	EER	PlotSize	Features
+173671842	RENTAL_RESIDENTIAL	One bedroom Executive Apartment - Fully Furnished	$480 per week	2017-04-06 12:07:44		3 Towns Crescent	Turner	ACT	2612	-35.26339556	149.12896603	APARTMENT	617303	PrivateLister	Private Lister		1	1	1	6	2587	
+173758422	RENTAL_RESIDENTIAL	2 Bed room apartment in Forrest	By Negotiation	2017-04-30 04:23:29		(no street name provided)	Forrest	ACT	2603	-35.3153517	149.1313055	APARTMENT	622061	PrivateLister	Private Lister		2	2	2	6		['DINING_ROOM', 'FAMILY_ROOM', 'SWIMMING_POOL']
