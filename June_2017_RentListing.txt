@@ -1,0 +1,2 @@
+id	type	DescriptionTitle	PriceLabel	ListingDate	ReListingDate	Address	Suburb	State	PostCode	Property.lat	Property.lon	PropertyType	Agency.Id	Agency.Type	Agency.Name	Agent.Name	Beds	Baths	Cars	EER	PlotSize	Features
+174000784	RENTAL_RESIDENTIAL	EXCEPTIONAL LIVING WITH ACCESS TO PUBLIC TRANSPORT & SHOPS IN WALKING DISTANCE	$600 per week	2017-06-25 10:14:04		179 Atherton Street	Downer	ACT	2602	-35.23983332	149.14157289	HOUSE	59445	PrivateLister	Private Lister		3	1	2		694	
