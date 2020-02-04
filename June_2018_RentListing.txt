@@ -1,0 +1,4 @@
+id	type	DescriptionTitle	PriceLabel	ListingDate	ReListingDate	Address	Suburb	State	PostCode	Property.lat	Property.lon	PropertyType	Agency.Id	Agency.Type	Agency.Name	Agent.Name	Beds	Baths	Cars	EER	PlotSize	Features
+175412436	RENTAL_RESIDENTIAL		$990 per week	2018-06-12 02:38:37		(no street name provided)	Monash	ACT	2904	-35.4147783	149.0821365	HOUSE	684007	PrivateLister	Private Lister		1	1	0		926	
+175451307	RENTAL_RESIDENTIAL	4 Bedroom furnished house, and gardens maintained regulary.	$685 per week	2018-06-22 01:11:37		(no street name provided)	Holder	ACT	2611	-35.33447523	149.04615709	HOUSE	578579	PrivateLister	Private Lister		4	2	4		790	
+175468931	RENTAL_RESIDENTIAL	Brand New Beautiful 4 Bedrooms Home	$800 per week	2018-06-29 05:09:13		118 Osburn Drive	Macgregor	ACT	2615	-35.21086968	149.01702895	HOUSE	39305	PrivateLister	Private Lister		4	3	2	6	890	['CENTRAL_HEAT', 'DINING_ROOM', 'NEW_CONSTRUCTION']
