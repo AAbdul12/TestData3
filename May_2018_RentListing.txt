@@ -1,0 +1,5 @@
+id	type	DescriptionTitle	PriceLabel	ListingDate	ReListingDate	Address	Suburb	State	PostCode	Property.lat	Property.lon	PropertyType	Agency.Id	Agency.Type	Agency.Name	Agent.Name	Beds	Baths	Cars	EER	PlotSize	Features
+175274007	RENTAL_RESIDENTIAL	Self Contained 1 BedroomUnite	$290-$310 per week	2018-05-08 13:32:01		Bugden Avenue	Fadden	ACT	2904	-35.40134755	149.11444412	UNIT	680846	PrivateLister	Private Lister		1	1	1	1	1090	
+175283364	RENTAL_RESIDENTIAL	FURNISHED AS NEW EXECUTIVE RESIDENCE	By Negotiation	2018-05-10 04:22:04		10 Banks Street	Yarralumla	ACT	2600	-35.3086252	149.0958002	HOUSE	197165	Agent	Key Real Estate ACT	Gabriele Hume	5	2	2	7.5		['FAMILY_ROOM']
+175312717	RENTAL_RESIDENTIAL	56/20 Federal Highway Watson	$440 per week	2018-05-16 08:50:57		56/20 Federal Highway	Watson	ACT	2602	-35.2286938	149.1558652	APARTMENT	150236	PrivateLister	Private Lister		2	2	2	6	20536	['DINING_ROOM', 'SWIMMING_POOL']
+175330447	RENTAL_RESIDENTIAL	Luxury Furnished one Bedroom + Study	$550-$750 per week	2018-05-22 10:26:38		(no street name provided)	Belconnen	ACT	2617	-35.23550982	149.06767327	APARTMENT	211725	PrivateLister	Private Lister		1	1	1	6	940	['DINING_ROOM', 'STUDY']
