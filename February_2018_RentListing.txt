@@ -1,0 +1,3 @@
+id	type	DescriptionTitle	PriceLabel	ListingDate	ReListingDate	Address	Suburb	State	PostCode	Property.lat	Property.lon	PropertyType	Agency.Id	Agency.Type	Agency.Name	Agent.Name	Beds	Baths	Cars	EER	PlotSize	Features
+174897864	RENTAL_RESIDENTIAL	15 Hirst Avenue - Great family home - don't miss out	$500-$600 per week	2018-02-05 11:00:21		(no street name provided)	Queanbeyan	NSW	2620	-35.3466053	149.2456307	HOUSE	34735	PrivateLister	Private Lister		3	1	2			['CENTRAL_HEAT', 'DINING_ROOM', 'FAMILY_ROOM']
+174938515	RENTAL_RESIDENTIAL		$780 per week	2018-02-13 11:47:41		(no street name provided)	Weston	ACT	2611	-35.3420324	149.0584752	HOUSE	670431	PrivateLister	Private Lister		4	1	1			['CENTRAL_HEAT', 'PETS_ALLOWED']
